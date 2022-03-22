@@ -4,7 +4,7 @@
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>this is a test</p>
+	<p>this is a test !</p>
 </main>
 
 <style>
