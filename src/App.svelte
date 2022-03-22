@@ -4,7 +4,7 @@
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>welcome to my website !</p>
+	<p>welcome to my website !!</p>
 </main>
 
 <style>
