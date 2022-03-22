@@ -4,7 +4,7 @@
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>Fucking finally, my website is working !!!!/p>
+	<p>Fucking finally, my website is working !!!/p>
 </main>
 
 <style>
