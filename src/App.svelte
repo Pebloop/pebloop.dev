@@ -1,10 +1,17 @@
 <script>
+	import Button from '@smui/button';
+	import Card from '@smui/card';
 	export let name;
 </script>
 
 <main>
 	<h1>Hello {name}!</h1>
-	<p>this is a test ! without src !</p>
+	<p>this is a test ! without src</p>
+	<Button>Hello</Button>
+	<Card>
+		<h1>Hello</h1>
+		<p>this is a test !</p>
+	</Card>
 </main>
 
 <style>
